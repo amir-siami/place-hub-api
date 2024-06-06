@@ -11,5 +11,12 @@
       "src": "/(.*)",
       "dest": "/app.js"
     }
-  ]
+  ],
+  "env": {
+    "DB_USER": "amir",
+    "DB_PASSWORD": "zKLptwmbXZFDGScY",
+    "DB_NAME": "mern-prod",
+    "OPENCAGE_API_KEY": "a42f63032f4b407ba6deada7a10d54e2",
+    "JWT_KEY": "supersecret_dont_share"
+  }
 }
